@@ -1,0 +1,42 @@
+{
+  "$jason": {
+    "head": {
+      "title": "Jasonette App",
+      "description": "My first test jasonette app.",
+      "offline": "true",
+      "data": {
+        "members": [
+          {
+            "name": "Alice"
+          },
+          {
+            "name": "Bill"
+          },
+          {
+            "name": "Chris"
+          },
+          {
+            "name": "Donna"
+          },
+          {
+            "name": "Elvis"
+          }
+        ]
+      },
+      "templates": {
+        "body": {
+          "sections": [
+            {
+              "items": {
+                "{{#each members}}": {
+                  "type": "label",
+                  "text": "{{name}}"
+                }
+              }
+            }
+          ]
+        }
+      }
+    }
+  }
+}
