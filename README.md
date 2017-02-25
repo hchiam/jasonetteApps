@@ -4,3 +4,7 @@ My sandbox for creating test apps using Jasonette (created by [Ethan](https://gi
 Basically it's an easy way to build apps made from pure JSON.
 
 Jasonette website: [http://docs.jasonette.com/](http://docs.jasonette.com/)
+
+My first Jasonette app made from pure JSON:  It worked!  Proof:
+
+![Screenshot of my first Jasonette app working.](https://github.com/hchiam/jasonetteApps/blob/master/Screen_Shot_2017-02-24.png)
