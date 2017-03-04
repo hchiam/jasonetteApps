@@ -1,0 +1,18 @@
+{
+    "$jason": {
+        "head": {
+            "title": "image example",
+            "description": "app description here"
+        },
+        "body": {
+            "sections": [{
+                "items": [
+                    {
+                        "type": "image",
+                        "url": "https://avatars0.githubusercontent.com/u/18131787?v=3&s=400"
+                    }
+                ]
+            }]
+        }
+    }
+}
