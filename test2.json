@@ -6,9 +6,6 @@
             "offline": "true"
         },
         "body": {
-            "style": {
-                "background": "#ECA73E"
-            },
             "sections": [
                 {
                     "type": "button",
