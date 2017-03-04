@@ -1,20 +1,44 @@
 {
     "$jason": {
         "head": {
-            "title": "test2",
-            "description": "test2",
-            "offline": "true"
+            "title": "Sections Example"
         },
         "body": {
             "sections": [
                 {
-                    "type": "button",
-                    "text": "Tap Me!",
-                    "style": {
-                        "width": "50",
-                        "height": "50",
-                        "size": "12",
-                    }
+                    "items": [
+                        {
+                            "components": [
+                                {
+                                    "type": "image",
+                                    "class": "carousel_img",
+                                    "url": "https://jasonette.github.io/Jasonpedia/assets/homer.jpg"
+                                },
+                                {
+                                    "type": "label",
+                                    "text": "Homer Simpson",
+                                    "class": "username center"
+                                },
+                                {
+                                    "type": "button",
+                                    "text": "Meow",
+                                    "style": {
+                                        "background": "rgb(100, 149, 237)",
+                                        "color": "#ffffff",
+                                        "align": "center",
+                                        "width": "150",
+                                        "height": "40"
+                                    },
+                                    "action": {
+                                        "type": "$audio.play",
+                                        "options": {
+                                            "url": "https://s3-us-west-2.amazonaws.com/fm.ethan.jason/cat.mp3"
+                                        }
+                                    }
+                                }
+                            ]
+                        },
+                    ]
                 }
             ]
         }
