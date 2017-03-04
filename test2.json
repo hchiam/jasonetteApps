@@ -1,24 +1,29 @@
 {
-  "$jason": {
-    "head": {
-      "title": "test2",
-      "description": "test2",
-      "offline": "true",
-      "templates": {
+    "$jason": {
+        "head": {
+            "title": "test2",
+            "description": "test2",
+            "offline": "true"
+        },
         "body": {
-          "type": "button",
-          "text": "Tap Me!",
-          "style": {
-            "width": "50",
-            "height": "50",
-            "background": "#00ff00",
-            "color": "#ffffff",
-            "font": "HelveticaNeue",
-            "size": "12",
-            "corner_radius": "25"
-          }
+            "style": {
+                "background": "#ECA73E"
+            },
+            "sections": [
+                {
+                    "type": "button",
+                    "text": "Tap Me!",
+                    "style": {
+                        "width": "50",
+                        "height": "50",
+                        "background": "#00ff00",
+                        "color": "#ffffff",
+                        "font": "HelveticaNeue",
+                        "size": "12",
+                        "corner_radius": "25"
+                    }
+                }
+            ]
         }
-      }
     }
-  }
 }
