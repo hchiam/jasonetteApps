@@ -11,7 +11,9 @@
                         "type": "button",
                         "text": "button text",
                         "style": {
-                            "background": "lightblue"
+                            "background": "#00ffaa",
+                            "color": "#ffffff",
+                            "size": "50"
                         }
                     }
                 ]
