@@ -4,25 +4,6 @@
       "title": "test2",
       "description": "test2",
       "offline": "true",
-      "data": {
-        "members": [
-          {
-            "name": "Alice"
-          },
-          {
-            "name": "Bill"
-          },
-          {
-            "name": "Chris"
-          },
-          {
-            "name": "Donna"
-          },
-          {
-            "name": "Elvis"
-          }
-        ]
-      },
       "templates": {
         "body": {
           "type": "button",
