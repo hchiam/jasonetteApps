@@ -1,0 +1,32 @@
+{
+    "$jason": {
+        "head": {
+            "title": "minimal variable example",
+            "actions": {
+                "$load": {
+                    "type": "$set",
+                    "options": {
+                        "var": "variable value"
+                    },
+                    "success": {
+                        "type": "$render"
+                    }
+                }
+            },
+            "templates": {
+              "body": {
+                "sections": [
+                    {
+                        "items": [
+                            {
+                                "type": "label",
+                                "text": "{{$get.var}}"
+                            }
+                        ]
+                    }
+                ]
+              }
+            }
+        }
+    }
+}
