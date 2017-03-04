@@ -1,9 +1,8 @@
 {
     "$jason": {
         "head": {
-            "title": "label_example",
-            "description": "label example",
-            "offline": "true"
+            "title": "label example",
+            "description": "app description here"
         },
         "body": {
             "sections": [{
