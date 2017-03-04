@@ -1,0 +1,21 @@
+{
+    "$jason": {
+        "head": {
+            "title": "button example",
+            "description": "app description here"
+        },
+        "body": {
+            "sections": [{
+                "items": [
+                    {
+                        "type": "button",
+                        "text": "button text",
+                        "style": {
+                            "background": "lightblue"
+                        }
+                    }
+                ]
+            }]
+        }
+    }
+}
