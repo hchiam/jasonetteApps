@@ -5,6 +5,16 @@ Basically it's an easy way to build apps from pure JSON.
 
 Jasonette website: [http://docs.jasonette.com/](http://docs.jasonette.com/)
 
+My raw github links as examples, and for easy copying:
+
+https://raw.githubusercontent.com/hchiam/jasonetteApps/master/myFirstTestJasonetteApp.json
+
+https://raw.githubusercontent.com/hchiam/jasonetteApps/master/minimalExample_label.json
+
+https://raw.githubusercontent.com/hchiam/jasonetteApps/master/minimalExample_image.json
+
+https://raw.githubusercontent.com/hchiam/jasonetteApps/master/minimalExample_button.json
+
 My first Jasonette app made from pure JSON:  It worked!  Proof:
 
 ![Screenshot of my first Jasonette app working.](https://github.com/hchiam/jasonetteApps/blob/master/Screen_Shot_2017-02-24.png)
