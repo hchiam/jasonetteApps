@@ -20,3 +20,5 @@ My first Jasonette app made from pure JSON:  It worked!  Proof:
 ![Screenshot of my first Jasonette app working.](https://github.com/hchiam/jasonetteApps/blob/master/Screen_Shot_2017-02-24.png)
 
 Note to self: don't confuse the "body" with the "body" inside the "templates": [https://docs.jasonette.com/templates/](https://docs.jasonette.com/templates/)
+
+(This is just one of the things I'm learning: https://github.com/hchiam/learning)
